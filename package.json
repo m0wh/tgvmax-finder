@@ -1,0 +1,14 @@
+{
+  "name": "tgvmax-finder",
+  "version": "1.0.0",
+  "description": "Find a place to go for free with TGVMax.",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nuxt"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "nuxt": "^2.10.2"
+  }
+}
